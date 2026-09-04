@@ -1,0 +1,3 @@
+# Sản phẩm build — dựng lại bằng ./build.sh
+MonClean.app/
+.DS_Store
